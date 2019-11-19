@@ -8,9 +8,9 @@ body{
   height: 100vh;
   background-image: 
 
-  url(https://raw.githubusercontent.com/oscicen/octaaks.github.io/master/3.png), 
-  url(https://raw.githubusercontent.com/oscicen/octaaks.github.io/master/2.png), 
-  url(https://raw.githubusercontent.com/oscicen/octaaks.github.io/master/1.png);
+  url(https://raw.githubusercontent.com/octaaks/octaaks.github.io/master/3.png), 
+  url(https://raw.githubusercontent.com/octaaks/octaaks.github.io/master/2.png), 
+  url(https://raw.githubusercontent.com/octaaks/octaaks.github.io/master/1.png);
   background-repeat: no-repeat;
   background-position: center;
   background-position: 50% 50%;
